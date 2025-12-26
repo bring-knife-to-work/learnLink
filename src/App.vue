@@ -92,8 +92,27 @@
     <!-- 页脚 -->
     <footer class="bg-white border-t mt-16">
       <div class="container mx-auto px-4 py-6">
-        <div class="text-center text-gray-600">
-          <p>&copy; 2024 LearnLink. 学习网址汇集网站</p>
+        <div class="space-y-4">
+          <!-- 免责声明 -->
+          <div class="text-center text-sm text-gray-500 max-w-3xl mx-auto">
+            <p class="font-semibold text-gray-700 mb-2">免责声明</p>
+            <p class="leading-relaxed">
+              本网站仅提供学习网址的收集和整理服务，所有链接均来源于公开网络。
+              本站不对任何外部网站的内容、准确性、合法性或可用性负责。
+              用户访问外部链接时需自行判断和承担风险，本站不承担任何责任。
+            </p>
+          </div>
+          
+          <!-- 分隔线 -->
+          <div class="border-t border-gray-200 my-4"></div>
+          
+          <!-- 版权和个人签名 -->
+          <div class="text-center text-gray-600">
+            <p>&copy; 2025 LearnLink. 学习网址汇集网站</p>
+            <p class="mt-2 text-sm text-gray-500">
+              Made with <span class="text-red-500">❤</span> by 万涛（上班带刀）
+            </p>
+          </div>
         </div>
       </div>
     </footer>
