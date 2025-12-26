@@ -563,6 +563,26 @@ export const linksData = [
     tags: ['3D', '模型', '操作'],
     visitCount: 0,
     favoriteCount: 0
+  },
+  {
+    id: 57,
+    name: 'WiredJS动画库',
+    url: 'https://wiredjs.com/showcase',
+    description: 'WiredJS动画库',
+    category: 'UI组件库',
+    tags: ['动画', 'WiredJS', '手绘风组件'],
+    visitCount: 0,
+    favoriteCount: 0
+  },
+  {
+    id: 58,
+    name: 'Neo Brutalism手绘风组件库',
+    url: 'https://www.neobrutalism.dev/docs/accordion',
+    description: 'Neo Brutalism手绘风组件库',
+    category: 'UI组件库',
+    tags: ['按钮', 'Neo Brutalism', '手绘风组件'],
+    visitCount: 0,
+    favoriteCount: 0
   }
 ]
 
